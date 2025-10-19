@@ -3,8 +3,6 @@ package Day03;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import Day02.rotate;
-
 public class rearrangeElement {
 
     public static void rearrange(ArrayList<Integer> arr){
